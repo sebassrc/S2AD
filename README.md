@@ -1,3 +1,4 @@
+[Diagramas_y_Relaciones.xlsx](https://github.com/sebassrc/S2AD/files/9825396/Diagramas_y_Relaciones.xlsx)
 # S2AD
 Estudiante:Sebastian Rodriguez camilo
 Grupo : S2AD
